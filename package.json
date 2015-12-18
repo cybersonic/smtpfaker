@@ -17,7 +17,7 @@
     "fake",
     "test"
   ],
-
+  "repository" : "https://github.com/cybersonic/smtpfaker",
   "author": "Mark Drew",
   "license": "Apache-2.0"
 }
